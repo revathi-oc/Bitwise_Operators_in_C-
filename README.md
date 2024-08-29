@@ -17,3 +17,11 @@ The primary bitwise operators include:
 5. **Shift operators (<<, >>)**: Left Shift moves bits to the left, filling with 0s, while Right Shift moves bits to the right, with behavior dependent on the type of integer.
 
 # Output
+
+![image](https://github.com/user-attachments/assets/627c416a-2803-42ef-923b-8d5f46d7fa0e)
+
+![image](https://github.com/user-attachments/assets/4454ae99-48d3-4401-a74e-7ad4e9407fba)
+
+# Conclusion
+We learnt about bitwise operators in C++.
+
